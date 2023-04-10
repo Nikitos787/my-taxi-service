@@ -1,19 +1,18 @@
-# Taxi-service
-### Project description
-> Taxi service is an application that was created following SOLID principles, using such a pattern 
-> as Dependency injection or rather his form Inversion of Control.This application supports 
+![taxi](https://publish.purewow.net/wp-content/uploads/sites/2/2018/05/nyc-yellow-taxi-in-times-square-hero.jpg)
+# :taxi: Taxi-service
+### :speech_balloon: Project description
+> Taxi service is an application that was created following SOLID principles, using such a pattern
+> as Dependency injection or rather his form Inversion of Control.This application supports
 > authentication and CRUD operations.
 ------------
 ## CONTENT
-<p>
-* <a href="#features">Features</a><br>
-* <a href="#project_structure">Project structure</a><br>
-* <a href="#technologies">Technologies</a><br>
-* <a href="#instructions">Instructions</a><br>
-</p>
+* Features
+* Technologies
+* Structure
+* Instructions
 
 
-## Features
+## :bow: Features
 * Register driver
 * Authenticate driver
 * Show the driver’s current car that belongs to him
@@ -25,7 +24,7 @@
 * Display list of manufacturers from DB
 ---------
 
-## Technologies
+## :wrench: Technologies
 * ***Java 11***
 * ***MAVEN 4.0.0***
 * ***MYSQL 8.0.28***
@@ -37,7 +36,7 @@
 * ***CSS***
 * ***TOMCAT 9.0.50***
 --------
-## Structure
+## :memo: Structure
 >This application uses in their structure N-tier architecture
 
 | Layer                      | Responsibilities                                                                                                                                                        |
@@ -57,7 +56,7 @@
 ![db diagram](img/dbDiagram.png)
 
 ------------
-## Instructions
+## :eyes: Instructions
 * Clone repository [here](https://github.com/Nikitos787/my-taxi-service.git)
 * Install MySQL
 * Install and Configure **TOMCAT 9.0.50**
