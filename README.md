@@ -36,7 +36,7 @@
 * ***CSS***
 * ***TOMCAT 9.0.50***
 --------
-## :memo: Structure
+## :clipboard: Structure
 >This application uses in their structure N-tier architecture
 
 | Layer                      | Responsibilities                                                                                                                                                        |
